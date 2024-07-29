@@ -1,2 +1,2 @@
 # vessl-pipeline-test
-- ping2
+- ping3
